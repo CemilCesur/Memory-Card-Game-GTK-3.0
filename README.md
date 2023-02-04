@@ -1,5 +1,5 @@
 # Preview
-
+ 
 >When the game is start  
 ![1 1](https://user-images.githubusercontent.com/56116535/185759725-28873943-3a29-4015-be5a-27805f3df5c9.png)  
 #  
